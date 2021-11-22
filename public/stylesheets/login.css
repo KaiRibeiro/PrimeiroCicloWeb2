@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300ita‌​lic,400italic,500,500italic,700,700italic,900italic,900);
+
+body {
+  font-family: "Roboto", sans-serif !important;
+  background: url(/images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.formulario-login {
+  width: 30%;
+  margin-top: 0 !important;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.637);
+}
+
+.formulario-login input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.formulario-login input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn {
+  background: #00a4ff;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background: #0082c9;
+}
+
+.bigLogo {
+  margin-top: 10%;
+  align-self: center;
+  justify-self: center;
+}

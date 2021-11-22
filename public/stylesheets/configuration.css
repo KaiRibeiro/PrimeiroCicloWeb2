@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(187, 184, 184);
+}
+
+.btnAtualizar {
+    background: #00a4ff;
+    text-transform: uppercase;
+  }
+  
+  .btnAtualizar:hover {
+    background: #0082c9;
+  }

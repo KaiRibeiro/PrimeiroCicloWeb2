@@ -1,0 +1,17 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.1/font/bootstrap-icons.css");
+
+body {
+    background-color: rgb(187, 184, 184);
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card {
+    width: 40%;
+}
+
+i {
+    font-size: 30px;
+}

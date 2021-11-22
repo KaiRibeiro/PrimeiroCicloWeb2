@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(187, 184, 184);
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.card {
+    width: 40%;
+}

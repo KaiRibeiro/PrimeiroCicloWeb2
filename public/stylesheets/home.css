@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(187, 184, 184);
+}
+
+.textoResumo {
+    width: 20%;
+    text-align: center;
+    text-justify: c;
+}
